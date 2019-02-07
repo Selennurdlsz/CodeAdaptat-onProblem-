@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe.config
+C:\Users\Lenovo\Desktop\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe
+C:\Users\Lenovo\Desktop\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.pdb
+C:\Users\Lenovo\Desktop\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.Form1.resources
+C:\Users\Lenovo\Desktop\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.exe
+C:\Users\Lenovo\Desktop\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.pdb
